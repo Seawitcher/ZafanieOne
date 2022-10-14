@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c623e5e0-5077-4f62-8528-34fe0656ace1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZafanieOne.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/util/Util.java" afterDir="false" />
     </list>
@@ -62,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665675648167</updated>
       <workItem from="1665675649939" duration="2918000" />
-      <workItem from="1665730312275" duration="3404000" />
+      <workItem from="1665730312275" duration="3751000" />
     </task>
     <servers />
   </component>
