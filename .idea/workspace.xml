@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c623e5e0-5077-4f62-8528-34fe0656ace1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/main/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/main/dao/UserDaoHibernateImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/main/dao/UserDaoJDBCImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/main/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/main/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/main/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/main/util/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test/java/UserServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/dao/UserDaoHibernateImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/dao/UserDaoJDBCImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/test/java/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/test/java/UserServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZafanieOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ZafanieOne.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +35,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,30 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_directory_selection": "C:/Users/Seawitcher/IdeaProjects/ZafanieOne/src",
-    "last_opened_file_path": "C:/Users/Seawitcher/IdeaProjects/ZafanieOne",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Seawitcher/IdeaProjects/ZafanieOne/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Seawitcher/IdeaProjects/ZafanieOne&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.main.java.jm.task.core.jdbc.Main">
+}</component>
+  <component name="RunManager" selected="JUnit.UserServiceTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ZafanieOne" />
@@ -63,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.jm.task.core.jdbc.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.jm.task.core.jdbc.Main" />
+    <configuration name="main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="ZafanieOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.jm.task.core.jdbc.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,9 +91,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZafanieOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.createUsersTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZafanieOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.UserServiceTest" />
+      <option name="METHOD_NAME" value="createUsersTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.getAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZafanieOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.UserServiceTest" />
+      <option name="METHOD_NAME" value="getAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main.java.jm.task.core.jdbc.Main" />
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="Application.main.Main" />
+        <item itemvalue="JUnit.UserServiceTest.getAllUsers" />
+        <item itemvalue="JUnit.UserServiceTest.createUsersTable" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -92,7 +157,10 @@
       <option name="presentableId" value="Default" />
       <updated>1665675648167</updated>
       <workItem from="1665675649939" duration="2918000" />
-      <workItem from="1665730312275" duration="10288000" />
+      <workItem from="1665730312275" duration="27099000" />
+      <workItem from="1665817477054" duration="5271000" />
+      <workItem from="1666160602762" duration="9761000" />
+      <workItem from="1666184690469" duration="10377000" />
     </task>
     <servers />
   </component>
@@ -104,7 +172,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
