@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c623e5e0-5077-4f62-8528-34fe0656ace1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/dao/UserDaoHibernateImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/dao/UserDaoJDBCImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/util/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/java/UserServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/dao/UserDaoHibernateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/dao/UserDaoJDBCImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/java/jm/task/core/jdbc/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/main/util/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/test/java/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate/src/test/java/UserServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZafanieOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ZafanieOne.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +138,7 @@
       <workItem from="1665730312275" duration="27099000" />
       <workItem from="1665817477054" duration="5271000" />
       <workItem from="1666160602762" duration="9761000" />
-      <workItem from="1666184690469" duration="10377000" />
+      <workItem from="1666184690469" duration="11136000" />
     </task>
     <servers />
   </component>
